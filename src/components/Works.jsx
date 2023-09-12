@@ -64,10 +64,10 @@ const Works = () => {
     <>
     <motion.div variants={textVariant()}>
     <p className={styles.sectionSubText}>
-      My work
+      Mi trabajo
       </p>
       <h2 className={styles.sectionHeadText}>
-        Projects.
+        Proyectos
       </h2>
 
   </motion.div>
@@ -77,11 +77,7 @@ const Works = () => {
     variants={fadeIn('','',0.1,1)}
     className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
     >
-       Following projects showcases my skills and experience through
-          real-world examples of my work. Each project is briefly described with
-          links to code repositories and live demos in it. It reflects my
-          ability to solve complex problems, work with different technologies,
-          and manage projects effectively.
+       Los siguientes proyectos muestran mis habilidades y experiencia a través de ejemplos de mi trabajo en el mundo real. Cada proyecto se describe brevemente con enlaces a repositorios de código y demostraciones en vivo. Refleja mi capacidad para resolver problemas complejos, trabajar con diferentestecnologías y gestionar proyectos de forma eficaz.
     </motion.p>
   </div>
   <div className='mt-20 flex flex-wrap gap-7'>

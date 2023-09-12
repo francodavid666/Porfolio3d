@@ -20,23 +20,26 @@ import {
     tesla,
     shopify,
     carrent,
+    eComerceCoffe ,
+    bloc,
     jobit,
     tripguide,
     threejs,
+    django,
   } from "../assets";
   
   export const navLinks = [
     {
-      id: "about",
-      title: "About",
+      id: "Acerca de mi",
+      title: "Acerca de mi",
     },
     {
-      id: "work",
-      title: "Work",
+      id: "Trabajos",
+      title: "Trabajos",
     },
     {
-      id: "contact",
-      title: "Contact",
+      id: "Contacto",
+      title: "Contacto",
     },
   ];
   
@@ -46,17 +49,14 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Web responsive",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "Backend Developer -Django",
       icon: backend,
     },
-    {
-      title: "Content Creator",
-      icon: creator,
-    },
+  
   ];
   
   const technologies = [
@@ -72,30 +72,16 @@ import {
       name: "JavaScript",
       icon: javascript,
     },
-    {
-      name: "TypeScript",
-      icon: typescript,
-    },
+  
     {
       name: "React JS",
       icon: reactjs,
     },
     {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
-    {
       name: "Tailwind CSS",
       icon: tailwind,
     },
-    {
-      name: "Node JS",
-      icon: nodejs,
-    },
-    {
-      name: "MongoDB",
-      icon: mongodb,
-    },
+
     {
       name: "Three JS",
       icon: threejs,
@@ -108,9 +94,10 @@ import {
       name: "figma",
       icon: figma,
     },
+  
     {
-      name: "docker",
-      icon: docker,
+      name: "django",
+      icon: django,
     },
   ];
   
@@ -198,68 +185,45 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "CRUD con React.js y Django",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Cree  un bloc de notas utilizando Djando-rest-framework y react.js para el front.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
+      
         {
-          name: "mongodb",
-          color: "green-text-gradient",
-        },
-        {
-          name: "tailwind",
+          name: "django",
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
+      image: bloc,
       source_code_link: "https://github.com/",
     },
     {
-      name: "Job IT",
+      name: "E-comerce Cafeteria",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Cree una aplicacion para que se pueda comprar faces y productos para una cafeteria, lo diseñe utilizando css, html, js y django",
       tags: [
         {
-          name: "react",
+          name: "Javascript",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "Django",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "Css y Html",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: eComerceCoffe ,
       source_code_link: "https://github.com/",
     },
-    {
-      name: "Trip Guide",
-      description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-      tags: [
-        {
-          name: "nextjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "supabase",
-          color: "green-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
-    },
+   
   ];
   
   export { services, technologies, experiences, testimonials, projects };

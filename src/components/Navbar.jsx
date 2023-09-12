@@ -20,9 +20,9 @@ const Navbar = () => {
       }}>
         <img src={logo} alt="logo" className='w-9 h-9 object-contain' />
         <p className='text-white text-[18px]
-        font-bold cursos-pointer flex'>
+        font-bold cursos-pointer flex'> 
           Franco Gomez &nbsp;
-          <span className='sm:block hidden'>| Web developer</span>
+          <span className='sm:block hidden'>| Web developer <span className='text-[#915eff] '>Junior</span></span>
           </p>
       </Link>
       <ul className='list-none hidden sm:flex flex-row gap-10'>
