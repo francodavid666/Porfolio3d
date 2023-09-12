@@ -19,7 +19,7 @@ import {
     starbucks,
     tesla,
     shopify,
-    carrent,
+   
     eComerceCoffe ,
     bloc,
     jobit,
