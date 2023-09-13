@@ -202,7 +202,7 @@ import {
       image: bloc,
       source_code_link: "https://github.com/francodavid666/notesApp",
     },
-    {
+   /* {
       name: "E-comerce Cafeteria",
       description:
         "Cree una aplicacion para que se pueda comprar faces y productos para una cafeteria, lo diseñe utilizando css, html, js y django",
@@ -222,7 +222,7 @@ import {
       ],
       image: eComerceCoffe ,
       source_code_link: "https://github.com/francodavid666/Almendra_3",
-    },
+    },*/
    
   ];
   
