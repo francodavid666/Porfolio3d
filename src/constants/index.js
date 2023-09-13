@@ -200,7 +200,7 @@ import {
         },
       ],
       image: bloc,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/francodavid666/notesApp",
     },
     {
       name: "E-comerce Cafeteria",
@@ -221,7 +221,7 @@ import {
         },
       ],
       image: eComerceCoffe ,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/francodavid666/Almendra_3",
     },
    
   ];

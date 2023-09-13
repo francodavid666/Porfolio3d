@@ -54,9 +54,9 @@ const About = () => {
     max-w-3xl leading-[30px]'
     >
         Soy un desarrollador de software capacitado con experiencia en Python y
-        JavaScript y experiencia en marcos como React y Django . 
-        Aprendo rápido y etoy en busca de mi primer trabajo como desarrollador
-        para podes expandir mis conocimientos.
+        JavaScript y experiencia en marcos como React.js y Django. 
+        Aprendo rápido y estoy en busca de mi primer trabajo como desarrollador
+        para poder expandir mis conocimientos.
          ¡Trabajemos juntos para hacer realidad tus ideas!
     </motion.p>
 
