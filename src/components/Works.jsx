@@ -77,7 +77,7 @@ const Works = () => {
     variants={fadeIn('','',0.1,1)}
     className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
     >
-       Los siguientes proyectos muestran mis habilidades y experiencia a través de ejemplos de mi trabajo en el mundo real. Cada proyecto se describe brevemente con enlaces a repositorios de código y demostraciones en vivo. Refleja mi capacidad para resolver problemas complejos, trabajar con diferentes tecnologías y gestionar proyectos de forma eficaz.
+       Los siguientes proyectos muestran mis habilidades y experiencia a través de ejemplos de mi trabajo en el mundo real. Cada proyecto se describe brevemente con enlaces a repositorios de código y demostraciones en vivo. <p className='font-bold'>Podes ENTRAR a mi Github y hacer click en el ENLACE de las paginas para verlas en el SERVIDOR.</p> 
     </motion.p>
   </div>
   <div className='mt-20 flex flex-wrap gap-7'>

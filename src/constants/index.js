@@ -19,7 +19,7 @@ import {
     starbucks,
     tesla,
     shopify,
-   
+    taskApi,
     eComerceCoffe ,
     bloc,
     jobit,
@@ -202,27 +202,32 @@ import {
       image: bloc,
       source_code_link: "https://github.com/francodavid666/notesApp",
     },
-   /* {
-      name: "E-comerce Cafeteria",
+   {
+      name: "CRUD con Django Rest Framework y React.js",
       description:
         "Cree una aplicacion para que se pueda comprar faces y productos para una cafeteria, lo diseñe utilizando css, html, js y django",
       tags: [
         {
-          name: "Javascript",
+          name: "React.js",
           color: "blue-text-gradient",
         },
         {
-          name: "Django",
+          name: "Django rest framework",
           color: "green-text-gradient",
         },
         {
-          name: "Css y Html",
+          name: "tailwind css",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "Ver proyecto",
           color: "pink-text-gradient",
         },
       ],
-      image: eComerceCoffe ,
-      source_code_link: "https://github.com/francodavid666/Almendra_3",
-    },*/
+      image: taskApi ,
+      source_code_link: "https://github.com/francodavid666/TaskApp",
+      
+    }
    
   ];
   
