@@ -27,6 +27,7 @@ import {
     threejs,
     django,
     starkeFit,
+    travelWeb
   } from "../assets";
   
   export const navLinks = [
@@ -240,7 +241,11 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "tailwind css",
+          name: "Tailwind Css",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Javascript",
           color: "pink-text-gradient",
         },
        
@@ -248,6 +253,26 @@ import {
       image: starkeFit ,
       source_code_link: "https://github.com/francodavid666/starkeOficial",
       source_code_link2: "https://starkeoficial.up.railway.app",
+      
+    },{
+      
+      name: "Travel Web",
+      description:
+        "Pagina web de viajes",
+      tags: [
+        {
+          name: "Html",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Css",
+          color: "pink-text-gradient",
+        },
+       
+      ],
+      image: travelWeb,
+      source_code_link: "https://github.com/francodavid666/travelWeb",
+      source_code_link2: "https://travelweb.up.railway.app",
       
     }
    
