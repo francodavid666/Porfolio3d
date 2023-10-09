@@ -22,6 +22,7 @@ import {
     taskApi,
     eComerceCoffe ,
     bloc,
+    ecommerceDjango,
     jobit,
     tripguide,
     threejs,
@@ -186,6 +187,25 @@ import {
   ];
   
   const projects = [
+    {
+      name: "Ecommerce con Django/Js",
+      description:
+        "Desarrolle un Ecommercer con Django y javascrip. Contiene Login, register, y se puede comprar sin estar loeago. Implemente la app de Paypal.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+      
+        {
+          name: "django",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: ecommerceDjango ,
+      source_code_link: "https://github.com/francodavid666/ecommerceDjango2",
+      source_code_link2: "https://ecommerce1.up.railway.app",
+    },
     {
       name: "CRUD con React.js y Django",
       description:
