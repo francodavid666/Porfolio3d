@@ -193,13 +193,17 @@ import {
         "Desarrolle un Ecommercer con Django y javascrip. Contiene Login, register, y se puede comprar sin estar loeago. Implemente la app de Paypal.",
       tags: [
         {
-          name: "react",
+          name: "Javascript",
           color: "blue-text-gradient",
         },
       
         {
           name: "django",
           color: "pink-text-gradient",
+        },
+        {
+          name: "Boostrap",
+          color: "green-text-gradient",
         },
       ],
       image: ecommerceDjango ,
