@@ -28,7 +28,8 @@ import {
     threejs,
     django,
     starkeFit,
-    travelWeb
+    travelWeb,
+    cardProductJs,
   } from "../assets";
   
   export const navLinks = [
@@ -210,24 +211,7 @@ import {
       source_code_link: "https://github.com/francodavid666/ecommerceDjango2",
       source_code_link2: "https://ecommerce1.up.railway.app",
     },
-    {
-      name: "CRUD con React.js y Django",
-      description:
-        "Cree  un bloc de notas utilizando Djando-rest-framework y react.js para el front.",
-      tags: [
-        {
-          name: "react",
-          color: "blue-text-gradient",
-        },
-      
-        {
-          name: "django",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: bloc,
-      source_code_link: "https://github.com/francodavid666/notesApp",
-    },
+   
    {
       name: "CRUD con Django Rest Framework y React.js",
       description:
@@ -245,15 +229,30 @@ import {
           name: "tailwind css",
           color: "pink-text-gradient",
         },
-        {
-          name: "Ver proyecto",
-          color: "pink-text-gradient",
-        },
+      
       ],
       image: taskApi ,
       source_code_link: "https://github.com/francodavid666/TaskApp",
       source_code_link2: "https://tasksapi.up.railway.app",
       
+    },
+    {
+      name: "CRUD con React.js y Django",
+      description:
+        "Cree  un bloc de notas utilizando Djando-rest-framework y react.js para el front.",
+      tags: [
+        {
+          name: "React/js",
+          color: "blue-text-gradient",
+        },
+      
+        {
+          name: "Django",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: bloc,
+      source_code_link: "https://github.com/francodavid666/notesApp",
     },
     {
       name: "Starke fitness WebPage ",
@@ -282,7 +281,7 @@ import {
       
       name: "Travel Web",
       description:
-        "Pagina web de viajes",
+        "Pagina web de viajes animado usando HTML CSS y JavaScript",
       tags: [
         {
           name: "Html",
@@ -297,6 +296,26 @@ import {
       image: travelWeb,
       source_code_link: "https://github.com/francodavid666/travelWeb",
       source_code_link2: "https://travelweb.up.railway.app",
+      
+    },{
+      
+      name: "Targeta de producto",
+      description:
+        "Tarjeta de producto animada usando HTML CSS y JavaScript",
+      tags: [
+        {
+          name: "Html",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Css",
+          color: "pink-text-gradient",
+        },
+       
+      ],
+      image: cardProductJs,
+      source_code_link: "https://github.com/francodavid666/cardProductJs",
+      source_code_link2: "https://cardproductjs.up.railway.app",
       
     }
    

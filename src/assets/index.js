@@ -32,6 +32,7 @@ import bloc from "./bloc.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import ecommerceDjango from "./projects/ecommerceDjango.png";
+import cardProductJs from "./projects/cardProductJs.png";
 
 export {
   logo,
@@ -67,5 +68,6 @@ export {
   django,
   starkeFit,
   travelWeb,
-  ecommerceDjango 
+  ecommerceDjango,
+  cardProductJs
 };
