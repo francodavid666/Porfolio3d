@@ -33,7 +33,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import ecommerceDjango from "./projects/ecommerceDjango.png";
 import cardProductJs from "./cardProductJs.png";
-import DoubleClickHeart from './DoubleClickHeart.png';
+import DoubleClickHeart from './doubleClickHeart.png';
 import travelReact from './travelReact.png';
 
 export {
