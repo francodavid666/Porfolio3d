@@ -34,7 +34,7 @@ import tripguide from "./tripguide.png";
 import ecommerceDjango from "./projects/ecommerceDjango.png";
 import cardProductJs from "./cardProductJs.png";
 import DoubleClickHeart from './projects/DoubleClickHeart.png';
-import travelReact from './projects/travelReact.png';
+import travelReact from './travelReact.png';
 
 export {
   logo,
