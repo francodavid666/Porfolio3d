@@ -39,7 +39,7 @@ const Contact = () => {
           from_name: form.name,
           to_name: "JavaScript Mastery",
           from_email: form.email,
-          to_email: "sujata@jsmastery.pro",
+          to_email: form.email,
           message: form.message,
         },
         '7-MGEkvWiUORZGWZE'
@@ -53,6 +53,7 @@ const Contact = () => {
             name: "",
             email: "",
             message: "",
+            to_email:"",
           });
         },
         (error) => {
