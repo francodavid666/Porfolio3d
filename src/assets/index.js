@@ -33,6 +33,8 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import ecommerceDjango from "./projects/ecommerceDjango.png";
 import cardProductJs from "./cardProductJs.png";
+import DoubleClickHeart from './projects/DoubleClickHeart.png';
+import travelReact from './projects/travelReact.png';
 
 export {
   logo,
@@ -69,5 +71,7 @@ export {
   starkeFit,
   travelWeb,
   ecommerceDjango,
-  cardProductJs
+  cardProductJs,
+  DoubleClickHeart,
+  travelReact,
 };

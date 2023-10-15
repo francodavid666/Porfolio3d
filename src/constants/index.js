@@ -30,6 +30,8 @@ import {
     starkeFit,
     travelWeb,
     cardProductJs,
+    DoubleClickHeart,
+    travelReact,
   } from "../assets";
   
   export const navLinks = [
@@ -277,6 +279,31 @@ import {
       source_code_link: "https://github.com/francodavid666/starkeOficial",
       source_code_link2: "https://starkeoficial.up.railway.app",
       
+    },
+    ,
+    {
+      name: "Travel React.js/Next.js ",
+      description:
+        "Aplicacion creada con Reac.js utilizando tailwind css",
+      tags: [
+        {
+          name: "React.js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Tailwind Css",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Next.js",
+          color: "pink-text-gradient",
+        },
+       
+      ],
+      image: travelReact ,
+      source_code_link: "https://github.com/francodavid666/TravelReactNext.js",
+      source_code_link2: "https://travelreactnextjs.up.railway.app",
+      
     },{
       
       name: "Travel Web",
@@ -311,11 +338,39 @@ import {
           name: "Css",
           color: "pink-text-gradient",
         },
+        {
+          name: "Javascript",
+          color: "green-text-gradient",
+        },
        
       ],
       image: cardProductJs,
       source_code_link: "https://github.com/francodavid666/cardProductJs",
       source_code_link2: "https://cardproductjs.up.railway.app",
+      
+    },{
+      
+      name: "Like con doble click Corazon",
+      description:
+        "He creado un botón de like en forma de corazon que reacciona al doble clic ",
+      tags: [
+        {
+          name: "Html",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Css",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "Javascript",
+          color: "green-text-gradient",
+        },
+       
+      ],
+      image: DoubleClickHeart,
+      source_code_link: "https://github.com/francodavid666/DoubleClickHeart",
+      source_code_link2: "https://doubleclickheart-production.up.railway.app",
       
     }
    

@@ -45,7 +45,7 @@ return(
     <div className='mt-5'>
       <h3 className='text-white font-bold text-[24px]'>{name}</h3>
       <p className='mt-2 text-secondary text-[14px]' >{description}</p>
-      <a   className='cursos-pointer' target="_blank"  href={source_code_link2}>Ver proyecto</a>
+      <a   className='cursos-pointer' target="_blank"  href={source_code_link2}>Ver Pagina <span className='font-bold text-red-600'>Clikeame!</span></a>
     </div>
     <div className='mt-4 flex-wrap gap-2'>
         {tags.map((tag)=>(
