@@ -35,6 +35,7 @@ import ecommerceDjango from "./projects/ecommerceDjango.png";
 import cardProductJs from "./cardProductJs.png";
 import DoubleClickHeart from './doubleClickHeart.png';
 import travelReact from './travelReact.png';
+import dragDropJs from './projects/dragDrop.png'
 
 export {
   logo,
@@ -74,4 +75,5 @@ export {
   cardProductJs,
   DoubleClickHeart,
   travelReact,
+  dragDropJs
 };

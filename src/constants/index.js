@@ -32,6 +32,7 @@ import {
     cardProductJs,
     DoubleClickHeart,
     travelReact,
+    dragDropJs,
   } from "../assets";
   
   export const navLinks = [
@@ -372,8 +373,33 @@ import {
       source_code_link: "https://github.com/francodavid666/DoubleClickHeart",
       source_code_link2: "https://doubleclickheart-production.up.railway.app",
       
+    },
+    {
+      
+      name: "Rrrastrar y soltar ",
+      description:
+        "He creado una funcion para atrastrar y solta una imagen en otro cuadrado ",
+      tags: [
+        {
+          name: "Html",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Css",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "Javascript",
+          color: "green-text-gradient",
+        },
+       
+      ],
+      image: dragDropJs,
+      source_code_link: "https://github.com/francodavid666/Drag-DropJS",
+      source_code_link2: "https://dragdropjs-production.up.railway.app",
+      
     }
-   
+    
   ];
   
   export { services, technologies, experiences, testimonials, projects };

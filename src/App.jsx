@@ -1,6 +1,7 @@
 import { BrowserRouter } from "react-router-dom";
 
 import {About,Contact,Experience,Feedbacks,Hero,Navbar, Tech,Works,StarsCanvas} from './components'
+import Python from "./components/Python";
 
 
 const App=()=> {
@@ -21,6 +22,7 @@ const App=()=> {
       <div className="relative z-0">
           <Contact/>
           <StarsCanvas/>
+        
       </div>
    </div>
    </BrowserRouter>
