@@ -376,7 +376,7 @@ import {
     },
     {
       
-      name: "Rrrastrar y soltar ",
+      name: "Arrastrar y soltar ",
       description:
         "He creado una funcion para atrastrar y solta una imagen en otro cuadrado ",
       tags: [
