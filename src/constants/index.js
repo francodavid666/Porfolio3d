@@ -34,6 +34,7 @@ import {
     travelReact,
     dragDropJs,
     passwordValidation,
+    searchBox,
   } from "../assets";
   
   export const navLinks = [
@@ -421,7 +422,31 @@ import {
       ],
       image: passwordValidation,
       source_code_link: "https://github.com/francodavid666/passwordValidation",
-      source_code_link2: "https://passwordvalidation.up.railway.app/",
+      source_code_link2: "https://passwordvalidation.up.railway.app",
+      
+    },{
+      
+      name: "Buscador animado ",
+      description:
+        "He creado un 'Search Box' con una pequeña animacion ",
+      tags: [
+        {
+          name: "Html",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Css",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "Javascript",
+          color: "green-text-gradient",
+        },
+       
+      ],
+      image: searchBox,
+      source_code_link: "https://github.com/francodavid666/searchBox",
+      source_code_link2: "https://searchbox.up.railway.app",
       
     }
     

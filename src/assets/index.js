@@ -37,6 +37,7 @@ import DoubleClickHeart from './doubleClickHeart.png';
 import travelReact from './travelReact.png';
 import dragDropJs from './projects/dragDrop.png'
 import passwordValidation from './projects/passwordValidation.png'
+import searchBox from  './projects/searchBox.png'
 
 export {
   logo,
@@ -77,5 +78,6 @@ export {
   DoubleClickHeart,
   travelReact,
   dragDropJs,
-  passwordValidation
+  passwordValidation,
+  searchBox,
 };
