@@ -36,6 +36,7 @@ import cardProductJs from "./cardProductJs.png";
 import DoubleClickHeart from './doubleClickHeart.png';
 import travelReact from './travelReact.png';
 import dragDropJs from './projects/dragDrop.png'
+import passwordValidation from './projects/passwordValidation.png'
 
 export {
   logo,
@@ -75,5 +76,6 @@ export {
   cardProductJs,
   DoubleClickHeart,
   travelReact,
-  dragDropJs
+  dragDropJs,
+  passwordValidation
 };

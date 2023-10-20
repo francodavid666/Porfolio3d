@@ -33,6 +33,7 @@ import {
     DoubleClickHeart,
     travelReact,
     dragDropJs,
+    passwordValidation,
   } from "../assets";
   
   export const navLinks = [
@@ -397,6 +398,30 @@ import {
       image: dragDropJs,
       source_code_link: "https://github.com/francodavid666/Drag-DropJS",
       source_code_link2: "https://dragdropjs-production.up.railway.app",
+      
+    },{
+      
+      name: "Validacion de Contraseña ",
+      description:
+        "He creado una funcion para validar una contraseña con requisitos",
+      tags: [
+        {
+          name: "Html",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Css",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "Javascript",
+          color: "green-text-gradient",
+        },
+       
+      ],
+      image: passwordValidation,
+      source_code_link: "https://github.com/francodavid666/passwordValidation",
+      source_code_link2: "https://passwordvalidation.up.railway.app/",
       
     }
     
