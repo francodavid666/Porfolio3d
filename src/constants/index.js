@@ -280,7 +280,7 @@ import {
       ],
       image: starkeFit ,
       source_code_link: "https://github.com/francodavid666/starkeOficial",
-      source_code_link2: "https://starkeoficial.up.railway.app",
+      source_code_link2: "https://starkeweb.onrender.com",
       
     },
     ,
