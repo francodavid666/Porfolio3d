@@ -36,6 +36,7 @@ import {
     passwordValidation,
     searchBox,
     notificacionMesseger,
+    dashboardReact
   } from "../assets";
   
   export const navLinks = [
@@ -259,6 +260,30 @@ import {
       ],
       image: bloc,
       source_code_link: "https://github.com/francodavid666/notesApp",
+    },
+    {
+      name: "Enterprice Admin Dashboard ",
+      description:
+        "Front end Dashboard enterprise full react.js. Usando libreria 'Syncfusion' y Tailwind Css",
+      tags: [
+        {
+          name: "React.js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Tailwind Css",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Syncfusion",
+          color: "pink-text-gradient",
+        },
+       
+      ],
+      image: dashboardReact ,
+      source_code_link: "https://github.com/francodavid666/dashboardReact",
+      source_code_link2: "https://dashboar-react.onrender.com",
+      
     },
     {
       name: "Starke fitness WebPage ",

@@ -39,6 +39,8 @@ import dragDropJs from './projects/dragDrop.png'
 import passwordValidation from './projects/passwordValidation.png'
 import searchBox from  './projects/searchBox.png'
 import notificacionMesseger from  './projects/notificacionMesseger.png'
+import dashboardReact from  './projects/dashboardReact.png'
+
 
 export {
   logo,
@@ -81,5 +83,6 @@ export {
   dragDropJs,
   passwordValidation,
   searchBox,
-  notificacionMesseger
+  notificacionMesseger,
+  dashboardReact
 };
