@@ -38,6 +38,7 @@ import travelReact from './travelReact.png';
 import dragDropJs from './projects/dragDrop.png'
 import passwordValidation from './projects/passwordValidation.png'
 import searchBox from  './projects/searchBox.png'
+import notificacionMesseger from  './projects/notificacionMesseger.png'
 
 export {
   logo,
@@ -80,4 +81,5 @@ export {
   dragDropJs,
   passwordValidation,
   searchBox,
+  notificacionMesseger
 };
