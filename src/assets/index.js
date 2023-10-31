@@ -40,6 +40,7 @@ import passwordValidation from './projects/passwordValidation.png'
 import searchBox from  './projects/searchBox.png'
 import notificacionMesseger from  './projects/notificacionMesseger.png'
 import dashboardReact from  './projects/dashboardReact.png'
+import galleryDjango from './projects/galleryDjango.png'
 
 
 export {
@@ -84,5 +85,6 @@ export {
   passwordValidation,
   searchBox,
   notificacionMesseger,
-  dashboardReact
+  dashboardReact,
+  galleryDjango
 };

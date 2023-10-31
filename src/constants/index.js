@@ -36,7 +36,8 @@ import {
     passwordValidation,
     searchBox,
     notificacionMesseger,
-    dashboardReact
+    dashboardReact,
+    galleryDjango
   } from "../assets";
   
   export const navLinks = [
@@ -218,7 +219,26 @@ import {
       source_code_link: "https://github.com/francodavid666/ecommerceDjango2",
       source_code_link2: "https://ecommerce1.up.railway.app",
     },
-   
+    {
+      name: "Gallery Photo Album Django",
+      description:
+        "Desarrolle un albun de fotos con Django. Si quieres puedes subir fotos",
+      tags: [
+       
+      
+        {
+          name: "Django",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "Boostrap",
+          color: "green-text-gradient",
+        },
+      ],
+      image: galleryDjango ,
+      source_code_link: "https://github.com/francodavid666/galleryPhotoDjango",
+      source_code_link2: "https://galleryphotodjango-production.up.railway.app",
+    },
    {
       name: "CRUD con Django Rest Framework y React.js",
       description:
