@@ -41,7 +41,7 @@ import searchBox from  './projects/searchBox.png'
 import notificacionMesseger from  './projects/notificacionMesseger.png'
 import dashboardReact from  './projects/dashboardReact.png'
 import galleryDjango from './projects/galleryDjango.png'
-
+import RandomPasswordGenerator from './projects/RandomPasswordGenerator.png'
 
 export {
   logo,
@@ -86,5 +86,6 @@ export {
   searchBox,
   notificacionMesseger,
   dashboardReact,
-  galleryDjango
+  galleryDjango,
+  RandomPasswordGenerator
 };

@@ -37,7 +37,8 @@ import {
     searchBox,
     notificacionMesseger,
     dashboardReact,
-    galleryDjango
+    galleryDjango,
+    RandomPasswordGenerator 
   } from "../assets";
   
   export const navLinks = [
@@ -517,6 +518,30 @@ import {
       image: notificacionMesseger,
       source_code_link: "https://github.com/francodavid666/NotificationMessenger",
       source_code_link2: "https://notificationmessenger.onrender.com",
+      
+    },{
+      
+      name: "Random Password Generator",
+      description:
+        "He creado un generador de contraseñas",
+      tags: [
+        {
+          name: "Html",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Css",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "Javascript",
+          color: "green-text-gradient",
+        },
+       
+      ],
+      image: RandomPasswordGenerator,
+      source_code_link: "https://github.com/francodavid666/RandomPasswordGenerator",
+      source_code_link2: "https://randompasswordgenerator.onrender.com",
       
     }
     
