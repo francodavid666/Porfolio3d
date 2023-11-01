@@ -237,7 +237,7 @@ import {
       ],
       image: galleryDjango ,
       source_code_link: "https://github.com/francodavid666/galleryPhotoDjango",
-      source_code_link2: "https://galleryphotodjango-production.up.railway.app",
+      source_code_link2: "https://galleryphotodjango.onrender.com",
     },
    {
       name: "CRUD con Django Rest Framework y React.js",
