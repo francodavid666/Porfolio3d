@@ -352,7 +352,7 @@ import {
       ],
       image: travelReact ,
       source_code_link: "https://github.com/francodavid666/TravelReactNext.js",
-      source_code_link2: "https://travelreactnextjs.up.railway.app",
+      source_code_link2: "https://travel-react-next-js.vercel.app",
       
     },{
       
